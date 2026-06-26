@@ -27,9 +27,6 @@ The database maintains records of customers, vehicles, rentals, and payments whi
 
 * MySQL
 * SQL
-* MySQL Workbench
-* Git
-* GitHub
 
 ---
 
